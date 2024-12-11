@@ -6,6 +6,7 @@ Este jogo foi desenvolvido para testar o tempo de reação do usuário. O objeti
 ![image](https://github.com/user-attachments/assets/e56d0738-da1e-429f-8165-e6e20f5a852c)
 
 ## Pontuação
+
 Aparece 3 possíveis mensagens.
 - Abaixo de 150ms, tempo bom.
 - Entre 150 e 250, tempo mediano.
@@ -19,3 +20,4 @@ Aparece 3 possíveis mensagens.
 
 ## Link do jogo
 
+- https://brunobiazon.github.io/Jogo-Teste-Reacao/
