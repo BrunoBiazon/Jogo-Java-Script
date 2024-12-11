@@ -1,0 +1,43 @@
+body {
+  font-family: "Jersey 10", serif;
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+  background-color: #bdbdbd;
+}
+
+.container {
+  text-align: center;
+}
+
+.arqueiro{
+  height: 600px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+
+.titulo {
+  font-size: 100px;
+  margin-bottom: 50px;
+}
+
+.instrucoes {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+#alvo {
+  width: 140px;
+  height: 140px;
+}
+
+#resultado {
+  font-size: 60px;
+  margin-top: 20px;
+  color: #db0303;
+}
