@@ -3,7 +3,7 @@
 Este jogo foi desenvolvido para testar o tempo de reação do usuário. O objetivo é simples: o jogador deve clicar no alvo assim que ele aparecer na tela.Após clicar novamente, o tempo levado pelo usuário é calculado ms. 
 
 ## Preview tela
-![image](https://github.com/user-attachments/assets/dd2515d9-f2e3-47b2-80e4-935031237921)
+![image](https://github.com/user-attachments/assets/b031a80b-153b-4c12-b43d-38b9803eb0fe)
 
 ## Pontuação
 
